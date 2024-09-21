@@ -1,0 +1,10 @@
+# Excluir configuración sensible
+wp-config.php
+
+# Excluir archivos grandes y temporales
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+
+# Excluir archivos del servidor web
+.htaccess
